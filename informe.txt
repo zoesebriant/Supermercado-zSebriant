@@ -1,0 +1,10 @@
+--- INFORME DE GESTIÓN SUPERMERCADO SOOS ---
+
+============================================
+
+El producto más caro es **N/A**.
+El valor total de la bodega es de **$0.00**.
+El producto con más ingresos es **N/A**.
+En el período de **10/2010**, el total de ventas es de **$0.00**.
+
+============================================
